@@ -8,6 +8,7 @@
 ![NextJS](https://img.shields.io/badge/-NextJS-282A36?style=flat&logo=next.js)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-282A36?style=flat&logo=typescript)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-282A36?style=flat&logo=react)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-282A36?style=flat&logo=tailwindcss)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-282A36?style=flat&logo=node.js)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-282A36?style=flat&logo=go)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-282A36?style=flat&logo=docker)&nbsp;
@@ -42,11 +43,11 @@
 ## 📫 How to contact me:
 
 <a href="https://www.linkedin.com/in/higordenomar/">
-  <img alt="HigorDenomar" src="https://img.shields.io/badge/-HigorDenomar-5429CC?style=flat&logo=Linkedin&logoColor=white" />
+  <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
 </a>
 <a href="https://www.instagram.com/higordenomar">
-  <img alt="HigorDenomar" src="https://img.shields.io/badge/-HigorDenomar-d02873?style=flat&labelColor=d02873&logo=instagram&logoColor=white&link=https://www.instagram.com/higordenomar">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
 </a>
 <a href="mailto:higordenomar@gmail.com">
-  <img alt="HigorDenomar" src="https://img.shields.io/badge/-higordenomar%40gmail.com-D3403A?style=flat&logo=Gmail&logoColor=white" />
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
 </a>
