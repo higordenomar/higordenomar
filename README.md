@@ -7,8 +7,8 @@
 
 ![Next.js](https://img.shields.io/badge/-Next.js-282A36?style=flat&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-282A36?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-282A36?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-282A36?style=flat&logo=tailwindcss)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-282A36?style=flat&logo=node.js)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-282A36?style=flat&logo=docker)&nbsp;
