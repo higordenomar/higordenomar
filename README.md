@@ -5,29 +5,26 @@
 
 ## 🛠 &nbsp;Skills
 
-![NextJS](https://img.shields.io/badge/-NextJS-282A36?style=flat&logo=next.js)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-282A36?style=flat&logo=typescript)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-282A36?style=flat&logo=react)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-282A36?style=flat&logo=tailwindcss)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-282A36?style=flat&logo=next.js)&nbsp;
+![React](https://img.shields.io/badge/-React-282A36?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-282A36?style=flat&logo=typescript)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-282A36?style=flat&logo=tailwindcss)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-282A36?style=flat&logo=node.js)&nbsp;
-![Golang](https://img.shields.io/badge/-Golang-282A36?style=flat&logo=go)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-282A36?style=flat&logo=docker)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-282A36?style=flat&logo=prisma)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-282A36?style=flat&logo=javascript)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-282A36?style=flat&logo=webpack)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=CSS&logoColor=1572B6)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-282A36?style=flat&logo=vite)&nbsp;
+![Vitest](https://img.shields.io/badge/-Vitest-282A36?style=flat&logo=vitest)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-282A36?style=flat&logo=jest)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-282A36?style=flat&logo=go)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-282A36?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-282A36?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-282A36?style=flat&logo=mysql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-282A36?style=flat&logo=sqlite)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-282A36?style=flat&logo=firebase)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-282A36?style=flat&logo=redux)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-282A36?style=flat&logo=SASS&logoColor=1572B6)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-282A36?style=flat&logo=SASS)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-282A36?style=flat&logo=prisma)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-282A36?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-282A36?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-282A36?style=flat&logo=gitlab)&nbsp;
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-282A36?style=flat&logo=bitbucket)&nbsp;
 
 <br>
 
