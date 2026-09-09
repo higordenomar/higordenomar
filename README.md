@@ -31,7 +31,7 @@
 ## 💹 Analytics
 
 <p align="left">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=higordenomar&rank_icon=github&show_icons=true&include_all_commits=true&theme_light=light_github&theme_dark=github_dark_dimmed" alt="higordenomar's stats"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=higordenomar&rank_icon=github&show_icons=true&include_all_commits=true&theme_light=light_github&theme_dark=github_dark_dimmed&hide=contribs" alt="higordenomar's stats"/>
   
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=higordenomar&layout=compact&langs_count=6&theme_light=light_github&theme_dark=github_dark_dimmed" alt="higordenomar's most languages"/>
 </p>
